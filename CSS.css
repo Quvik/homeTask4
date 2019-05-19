@@ -1,0 +1,70 @@
+
+
+	 body {
+    background: url(photo1.jpg) no-repeat; 
+		 
+   	
+   }	
+	
+.top {
+        text-align: center;
+		margin:40px;
+	    color: #8B008B;
+	
+        text-shadow: red 0 0 2px;
+		}
+
+
+.verse1 {
+        width:25%;
+         font-size:19;
+        overflow:auto;
+        margin:10px;
+        padding:4px;
+		float:right;
+	
+
+        text-shadow: red 0 0 2px;
+	}
+	 	 
+.verse2 {
+        width:25%;
+        font-size:19;
+        overflow:auto;
+        margin:10px;
+        margin-right:10%;
+		padding:4px;
+		float: left;
+
+        text-shadow: red 0 0 2px;
+      }
+	
+	
+.verse3 {
+        width:25%;
+        font-size:19;
+        overflow:auto;
+        margin:10px;
+        padding:4px;
+	   
+        text-shadow: red 0 0 2px;
+        
+		}
+
+.button1{
+	float:right;
+	
+
+
+}
+
+.button2{
+	float:left;
+ 
+}
+
+.button3{
+	margin-left:46%;
+	margin-right:47%;
+
+}
